@@ -25,7 +25,10 @@ git clone https://github.com/seuusuario/extrator-pdf-csv.git
 cd extrator-pdf-csv
 ```
 
+
 Ou baixe o arquivo e o execute normalmente
+
+
 
 Edite o script:
 
